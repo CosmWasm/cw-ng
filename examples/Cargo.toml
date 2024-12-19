@@ -31,6 +31,6 @@ sylvia = { path = "../sylvia" }
 cw-storage-plus = "2.0.0"
 cw-utils = "2.0.0"
 cw2 = "2.0.0"
-semver = "1.0.23"
-thiserror = "2.0.0"
+semver = "1.0.24"
+thiserror = "2.0.8"
 assert_matches = "1.5.0"
