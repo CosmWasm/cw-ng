@@ -65,7 +65,7 @@ ignored in the further process.
 +> = CodeId::store_code(&app);
 ```
 
-### Lifetime ellision in a contract's impl block not supported
+### Lifetime elision in a contract's impl block not supported
 
 ```diff
 -#[contract]
