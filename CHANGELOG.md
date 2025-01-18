@@ -162,7 +162,7 @@ and this project adheres to
 - Forward generics to custom_generic interface
 - Allow single concrete type to be passed in place of multiple
 - Forward generics to the interface
-- Make as Variant optional for #[messages(...)] attribtue
+- Make as Variant optional for #[messages(...)] attribute
 
 ### Other
 
